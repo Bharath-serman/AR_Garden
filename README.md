@@ -9,7 +9,7 @@ An immersive Augmented Reality (AR) application built using the Unity Engine tha
 * **Plane Detection:** Automatically scans and detects horizontal (and vertical) surfaces in the real world to establish a ground plane for your garden.
 * **Object Instantiation:** Seamlessly spawn and place interactive garden elements, plants, and virtual assets onto detected planes with precise tap controls.
 * **Firebase Authentication:** Secure user management system featuring user sign-up, login, and session handling to keep your custom garden progress saved.
-* **Dynamic Main Menu:** A polished user interface and menu flow built for seamless transition between authentication and the AR experience.
+* **Dynamic Main Menu:** A polished user interface and menu flow built for seamless transition between authentication and the AR experience scenes.
 
 ---
 
